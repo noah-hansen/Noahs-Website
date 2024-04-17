@@ -1,0 +1,29 @@
+/* div styles résumé*/
+
+h1{
+    color: white;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+
+.edu{
+    color: darkblue
+}
+
+.exp{
+    color:darkgreen
+}
+
+.vol{
+    color:darkred
+}
